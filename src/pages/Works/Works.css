@@ -1,0 +1,95 @@
+@import "react-slideshow-image/dist/styles.css";
+
+
+.pageTitle{
+    width: 100%;    
+    /* background-color: #343353; */
+    font-size: 3em;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+}
+
+.works-page-wrap{
+    display: block;
+}
+
+.titleproject{
+    color: #00ffdd;
+}
+
+.lacrosse-wrap, .cricket-wrap {
+    display: flex;    
+    /* justify-content: center; */
+    align-items: center;
+    /* height: 93.8vh; */
+    height: auto;
+    padding-top: 5%;    
+    background-color: #343353;
+    background-size: cover;
+    color: #fff;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.textWorks{
+    color: #fff;
+    text-align: center;
+}
+
+.workblock img{
+    width: 80%;
+    height: auto;
+    border-bottom: 5px solid #00ffdd5e;
+    /* margin-left: 50px;
+    margin-right: 50px; */
+}
+
+.lacrosse-project{
+    display: flex;
+}
+
+/* .language-icons{
+    display: flex;   
+     
+}
+
+.language-icons p{
+    font-size: 4em;    
+    
+} */
+
+.language-icons img{
+    width: 10%;
+    margin: 10px;
+    align-items: center;
+}
+
+.language-icons{
+    display: flex;
+    margin: auto;
+    align-items: center;
+    width: 30%;
+    padding: 10px;
+}
+
+.language-icons p{
+    font-size: 4em;
+}
+
+
+
+  
+
+@media screen and (max-width: 800px) {
+
+    .works-wrap {
+        flex-direction: column;
+        /* height: 190vh; */
+        height: auto;
+    }   
+
+
+
+
+}

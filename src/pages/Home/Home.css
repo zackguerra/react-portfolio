@@ -1,0 +1,66 @@
+.home-wrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* height: 90vh; */
+    background-image: url("../../img//symbols_background.jpg");
+    background-size: cover;
+    color: #fff;
+}
+
+
+.title-std{
+    text-align: center;
+}
+
+.profilepic img {
+    /* display: block !important; */
+    display: flex;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: auto;
+}
+
+.socialIcon a{    
+    flex-direction: row;
+    color: #fff;
+    font-size: 50px;
+    text-decoration: none;
+    letter-spacing: 10px;   
+}
+
+.socialIcon a:nth-child(even):hover{
+    color: #52c8b9;
+}
+
+.socialIcon a:nth-child(odd):hover{
+    color: #e25771;
+}
+
+.contactBtn {
+    margin-top: 70px;	
+	background-color:#fc8d83;
+	border-radius:42px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:25px;
+	font-weight:bold;
+	padding:18px 54px;
+	text-decoration:none;
+    text-shadow:2px 3px 4px #b23e35;    
+    transition: 0.9s;
+}
+.contactBtn:hover {
+    background-color:#52c8b8;
+    opacity: 1;
+}
+.contactBtn:active {
+	position:relative;
+	top:1px;
+}
+
