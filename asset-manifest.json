@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.3b9cb975.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.625f5146.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.625f5146.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.b3aa0e83.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.b3aa0e83.js.map",
+    "static/css/2.62cc171c.chunk.css": "/react-portfolio/static/css/2.62cc171c.chunk.css",
+    "static/js/2.1f581f0f.chunk.js": "/react-portfolio/static/js/2.1f581f0f.chunk.js",
+    "static/js/2.1f581f0f.chunk.js.map": "/react-portfolio/static/js/2.1f581f0f.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/2.62cc171c.chunk.css.map": "/react-portfolio/static/css/2.62cc171c.chunk.css.map",
+    "static/css/main.3b9cb975.chunk.css.map": "/react-portfolio/static/css/main.3b9cb975.chunk.css.map",
+    "static/js/2.1f581f0f.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.1f581f0f.chunk.js.LICENSE.txt",
+    "static/media/akuaku.f35cbc92.jpg": "/react-portfolio/static/media/akuaku.f35cbc92.jpg",
+    "static/media/businesslogo.83efea46.png": "/react-portfolio/static/media/businesslogo.83efea46.png",
+    "static/media/cricket1.afb9e8e0.png": "/react-portfolio/static/media/cricket1.afb9e8e0.png",
+    "static/media/cricket2.b726d860.png": "/react-portfolio/static/media/cricket2.b726d860.png",
+    "static/media/cricket3.48490836.png": "/react-portfolio/static/media/cricket3.48490836.png",
+    "static/media/cricket4.ae6f5cc7.png": "/react-portfolio/static/media/cricket4.ae6f5cc7.png",
+    "static/media/lacrosse1.446ee529.jpg": "/react-portfolio/static/media/lacrosse1.446ee529.jpg",
+    "static/media/lacrosse2.1a1899d8.jpg": "/react-portfolio/static/media/lacrosse2.1a1899d8.jpg",
+    "static/media/lacrosse3.d158e13c.jpg": "/react-portfolio/static/media/lacrosse3.d158e13c.jpg",
+    "static/media/lacrosse4.4a2d6d78.jpg": "/react-portfolio/static/media/lacrosse4.4a2d6d78.jpg",
+    "static/media/profilepic.5c19e33b.jpg": "/react-portfolio/static/media/profilepic.5c19e33b.jpg",
+    "static/media/Home.css": "/react-portfolio/static/media/symbols_background.d43186ce.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3aa0e83.js",
+    "static/css/2.62cc171c.chunk.css",
+    "static/js/2.1f581f0f.chunk.js",
+    "static/css/main.3b9cb975.chunk.css",
+    "static/js/main.625f5146.chunk.js"
+  ]
+}
